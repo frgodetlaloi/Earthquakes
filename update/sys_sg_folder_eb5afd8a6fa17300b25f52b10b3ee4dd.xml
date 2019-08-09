@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="INSERT_OR_UPDATE">
+        <application display_value="Earthquakes - Mobile">6b5afd8a6fa17300b25f52b10b3ee4dc</application>
+        <name/>
+        <order>1</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-22 18:23:58</sys_created_on>
+        <sys_id>eb5afd8a6fa17300b25f52b10b3ee4dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Earthquakes" source="x_76297_earthquake">e868bd0a6fa17300b25f52b10b3ee464</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">e868bd0a6fa17300b25f52b10b3ee464</sys_scope>
+        <sys_update_name>sys_sg_folder_eb5afd8a6fa17300b25f52b10b3ee4dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-22 18:23:58</sys_updated_on>
+    </sys_sg_folder>
+</record_update>
